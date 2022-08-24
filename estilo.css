@@ -46,10 +46,10 @@ li a:hover {
 }
 .boxImage {
   position: absolute;
-  width: 90%;
-  height: 80px;
+  width: 91%;
+  height: 300px;
   background: rgb(192, 55, 219);
-  top: 45px;
+  top: 50px;
   left: 0;
   margin: 20px;
   border-color: rgb(69, 218, 238);
@@ -57,7 +57,7 @@ li a:hover {
   border-style: solid;
   padding: 20px;
   display: flex;
-  justify-content: center;
+  justify-content: vertical;
 }
 #bola {
    width: 80px;
