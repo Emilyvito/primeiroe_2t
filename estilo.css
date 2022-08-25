@@ -1,5 +1,5 @@
 body {
-  background: rgb(138, 10, 95);
+  background: rgb(37, 209, 221);
 }
 h1 {
   text-align: center;
@@ -13,7 +13,7 @@ h1 {
    position: relative;
    width: 200px;
    height: 200px;
-   background: #490272;
+   background: #6c02aa;
    left: 50px;
 }
 .menuPrincipal {
@@ -34,7 +34,7 @@ li {
 }
 li a {
   display: block;
-  color: rgb(12, 12, 11);
+  color: rgb(0, 0, 0);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -67,7 +67,7 @@ li a:hover {
    position: absolute;
    width: 100%;
    height: 50px;
-   color: rgb(92, 2, 87);
+   color: rgb(238, 236, 238);
    background: rgb(0, 0, 0);
    left: 0;
    bottom: 0;
